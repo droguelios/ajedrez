@@ -1,0 +1,91 @@
+body{
+    text-align: center;
+    background: url(../Freepik-3.jpg) no-repeat center center fixed;
+    text-transform:uppercase;
+    background-color: aqua;
+}
+
+.element{
+    background-color: rgb(150, 11, 11);
+
+}
+.contenedor{
+    background:rgba(30, 126, 62, 0.6) ;
+    width: 37.1%;
+    height: 480px;
+    margin: 0 auto;
+    border: 3px solid #000;
+    border-radius: 4px;
+}
+.blanco{
+    width: 60px;
+    height: 60px;
+    background: rgb(255, 241, 241)
+}
+.negro{
+    width: 60px;
+    height: 60px;
+    background: rgb(0, 0, 0)
+    
+}
+.col-a {
+    width: 60px;
+    z-index: 100;
+    float: left;
+}
+
+.col-b{
+    width: 60px;
+    float: left;
+}
+
+.col-c{
+    width: 60px;
+    float: left;
+}
+
+.col-d{
+    width: 60px;
+    float: left;
+}
+
+
+.col-e{
+    width: 60px;
+    float: left;
+}
+
+.col-f{
+    width: 60px;
+    float: left;
+}
+
+.col-g{
+    width: 60px;
+    float: left;
+}
+.col-h{
+    width: 60px;
+    float: left;
+}
+
+
+.ficha-black{
+    font-size:  50px;
+    color:red;
+}
+.ficha-white{
+    font-size:  50px;
+    color: blue;
+}
+
+h1{
+    color: aqua;
+    text-decoration: aquamarine;
+    font-family: fantasy;
+    font-style: italic;
+    font-weight: bold;
+}
+
+
+
